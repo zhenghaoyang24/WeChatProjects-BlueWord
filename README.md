@@ -1,6 +1,6 @@
 # 步步记单词（简易微信记单词小程序）
 
-
+该小程序项目功能并不完善，拥有完整记单词功能的小程序为该项目：https://github.com/zhenghaoyang24/inputword
 
 ## 项目说明
 
